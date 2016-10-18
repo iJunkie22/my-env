@@ -1,0 +1,12 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+include "/opt/local/share/themes/PrudenceDark/gtk-2.0/gtkrc"
+
+style "user-font"
+{
+  font_name="Avenir Medium 10"
+}
+widget_class "*" style "user-font"
+
+include "/Users/ethan/.gtkrc-2.0.mine"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT
